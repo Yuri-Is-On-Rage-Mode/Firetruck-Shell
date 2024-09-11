@@ -3,6 +3,8 @@
 
 > A customizable shell that functions as both a programming language and a Bash terminal, built with Vin Virtual OS.
 
+<img src="./Untitled.png"></img>
+
 ### Overview
 - Welcome to the FireTruck Shell—a powerful and customizable shell environment that merges the capabilities of a programming language with the flexibility of a Bash terminal. Built upon the innovative [weapons-grade-virtual-machine](https://github.com/Yuri-Is-On-Rage-Mode/weapons-grade-virtual-machine) VM, FireTruck Shell offers a dynamic and adaptable platform for both scripting and command execution.
 
